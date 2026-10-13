@@ -1,0 +1,1407 @@
+{
+  "source": "store",
+  "batch": "batch_2",
+  "exported_at": "2026-09-15T06:00:00Z",
+  "items": [
+    {
+      "store_id": "ST-2086130",
+      "title": "Amber Frontier",
+      "developer": "Vesreach Softworks",
+      "publisher": "Bluebird Arcade",
+      "release_date": "2020-12-17",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": " Roguelike  ;deckbuilding;turn-based;fantasy;roguelite;Procedural-Generation; permadeath  ; early-access  ",
+      "genres": ["Strategy", "Indie", "RPG", "Early Access"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1149440",
+      "title": "Brihaven: Patchwork Colony",
+      "developer": "Lumencraft Interactive",
+      "publisher": "Lumencraft Interactive",
+      "release_date": "2019-07-24",
+      "price": {
+        "amount_cents": 999,
+        "currency": "USD"
+      },
+      "tags": " Puzzle  | MINIMALIST  | relaxing  | singleplayer  |DIFFICULT",
+      "genres": ["Puzzle", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2709720",
+      "title": "Thicket of Brideep",
+      "developer": "Emberbound Labs",
+      "publisher": "Emberbound Labs",
+      "release_date": "2024-01-19",
+      "price": {
+        "amount_cents": 1299,
+        "currency": "USD"
+      },
+      "tags": "BASE-BUILDING ;  Crafting   ; space ; early-access ; multiplayer ; sci-fi",
+      "genres": ["Simulation", "Indie", "Early Access"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2972810",
+      "title": "Colony of Brihaven",
+      "developer": "Starhold Works",
+      "publisher": "Starhold Works",
+      "release_date": "05.05.2015",
+      "price": {
+        "amount_cents": 2499,
+        "currency": "USD"
+      },
+      "tags": "Automation,  base-building  , Resource-Management,  crafting  , PROCEDURAL-GENERATION",
+      "genres": ["Simulation", "Strategy", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1208560",
+      "title": "Stormbound",
+      "developer": "Velvet Crow Interactive",
+      "publisher": "Velvet Crow Interactive",
+      "release_date": "2019-05-05",
+      "price": {
+        "amount_cents": 199,
+        "currency": "USD"
+      },
+      "tags": "roguelike, Card-Game,  TURN-BASED  , procedural-generation, Hand-Drawn,  permadeath  ",
+      "genres": ["Strategy", "RPG"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1172400",
+      "title": "Parade of Ostspire",
+      "developer": "Nycross Interactive",
+      "publisher": "Nycross Interactive",
+      "release_date": "2018-01-14",
+      "price": {
+        "amount_cents": 499,
+        "currency": "USD"
+      },
+      "tags": "BULLET-HELL,DIFFICULT,2D,pixel-graphics,Minimalist,SCI-FI,Local-Multiplayer",
+      "genres": ["Action"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1456770",
+      "title": "Woven Tides",
+      "developer": "Bonehold Collective",
+      "publisher": "Bonehold Collective",
+      "release_date": "03.01.2018",
+      "price": {
+        "amount_cents": 599,
+        "currency": "USD"
+      },
+      "tags": "survival, crafting, OPEN-WORLD, BASE-BUILDING, Exploration",
+      "genres": ["Adventure", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1235490",
+      "title": "Hollowed Comet",
+      "developer": "Rustbreak Team",
+      "publisher": "Rustbreak Team",
+      "release_date": "2017-11-02",
+      "price": {
+        "amount_cents": 999,
+        "currency": "USD"
+      },
+      "tags": " Survival   ; crafting ; open-world ;  Base-Building  ",
+      "genres": ["Adventure", "Indie"],
+      "platforms": ["windows", "mac", "linux"]
+    },
+    {
+      "store_id": "ST-337260",
+      "title": "Lunar Parade",
+      "developer": "Mossfall Collective",
+      "publisher": "Mossfall Collective",
+      "release_date": "16.03.2025",
+      "price": {
+        "amount_cents": 399,
+        "currency": "USD"
+      },
+      "tags": "puzzle;MINIMALIST;Relaxing; Singleplayer  ",
+      "genres": ["Puzzle", "Casual", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-362290",
+      "title": "Saltbreak: Deluxe",
+      "developer": "Iron Teapot Games",
+      "publisher": "Driftwood Collective",
+      "release_date": "Apr 5, 2023",
+      "price": {
+        "amount_cents": 2999,
+        "currency": "USD"
+      },
+      "tags": "procedural-generation|permadeath| sci-fi  | Pixel-Graphics  |2D| difficult  |choices-matter",
+      "genres": ["Action", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2115400",
+      "title": "Tormoor: Golden Beacon",
+      "developer": "Bramblewalker Works",
+      "publisher": "Arclight Media",
+      "release_date": "19.04.2024",
+      "price": {
+        "amount_cents": 499,
+        "currency": "USD"
+      },
+      "tags": "Colony-Sim;BASE-BUILDING;Resource-Management;MANAGEMENT; Singleplayer  ;survival",
+      "genres": ["Simulation", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2566940",
+      "title": "Tides of Nyridge",
+      "developer": "Dustward Labs",
+      "publisher": "Dustward Labs",
+      "release_date": "05.04.2024",
+      "price": {
+        "amount_cents": 699,
+        "currency": "USD"
+      },
+      "tags": "puzzle ;  platformer   ;  Physics   ;  2D   ; Story-Rich ; Hand-Drawn",
+      "genres": ["Puzzle", "Adventure", "Indie"],
+      "platforms": ["windows", "mac", "linux"]
+    },
+    {
+      "store_id": "ST-668810",
+      "title": "Starlit Beacon",
+      "developer": "Bramblehold Studio",
+      "publisher": "Bramblehold Studio",
+      "release_date": "2025-09-07",
+      "price": {
+        "amount_cents": 1199,
+        "currency": "USD"
+      },
+      "tags": "City-Builder|MANAGEMENT| RESOURCE-MANAGEMENT  |SIMULATION|Early-Access",
+      "genres": ["Simulation", "Indie", "Early Access"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2536950",
+      "title": "Endless Hive",
+      "developer": "Salt & Pepper Works",
+      "publisher": "Salt & Pepper Works",
+      "release_date": "Jan 8, 2022",
+      "price": {
+        "amount_cents": 399,
+        "currency": "USD"
+      },
+      "tags": "MANAGEMENT,SIMULATION,singleplayer,strategy,2d,multiplayer",
+      "genres": ["Sports", "Simulation", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1212570",
+      "title": "Lumenheart: Second Wind",
+      "developer": "Cinderward Softworks",
+      "publisher": "Cinderward Softworks",
+      "release_date": "2011-10-25",
+      "price": {
+        "amount_cents": 1388,
+        "currency": "EUR"
+      },
+      "tags": "roguelite;procedural-generation;Hack-And-Slash;PERMADEATH; SINGLEPLAYER  ",
+      "genres": ["Action", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2378740",
+      "title": "Glass Embers",
+      "developer": "Kesvale Labs",
+      "publisher": "Kesvale Labs",
+      "release_date": "Dec 29, 2018",
+      "price": {
+        "amount_cents": 499,
+        "currency": "USD"
+      },
+      "tags": " Farming  , Relaxing, CUTE,  crafting  , story-rich, singleplayer, exploration",
+      "genres": ["Simulation", "Indie", "RPG"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-1657760",
+      "title": "Ostwick: Neon Meadow",
+      "developer": "Bonebound Labs",
+      "publisher": "Stellar Kite",
+      "release_date": "2026-05-04",
+      "price": {
+        "amount_cents": 699,
+        "currency": "USD"
+      },
+      "tags": " Roguelike  ;deckbuilding; Card-Game  ;TURN-BASED;fantasy;Strategy; procedural-generation  ;Permadeath",
+      "genres": ["Strategy", "Indie", "RPG"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-879240",
+      "title": "Endless Signal",
+      "developer": "Wobbly Chair Interactive",
+      "publisher": "Arclight Media",
+      "release_date": "03.06.2011",
+      "price": {
+        "amount_cents": 2999,
+        "currency": "USD"
+      },
+      "tags": " ROGUELIKE   ;  DECKBUILDING   ; card-game ; turn-based ; pixel-graphics ; Fantasy ;  procedural-generation   ;  2d  ",
+      "genres": ["Strategy", "Indie"],
+      "platforms": ["windows", "mac", "linux"]
+    },
+    {
+      "store_id": "ST-671000",
+      "title": "Iron Hive",
+      "developer": "Fern & Flint Studio",
+      "publisher": "Harbor Light Games",
+      "release_date": "13.07.2018",
+      "price": {
+        "amount_cents": 199,
+        "currency": "USD"
+      },
+      "tags": "Survival ;  Crafting   ; base-building ; MULTIPLAYER ; 3D ; procedural-generation ;  Sandbox  ",
+      "genres": ["Adventure", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-534270",
+      "title": "Relay of Galwick",
+      "developer": "Nycross Interactive",
+      "publisher": "Nycross Interactive",
+      "release_date": "03.06.2024",
+      "price": {
+        "amount_cents": 999,
+        "currency": "USD"
+      },
+      "tags": "Relaxing|cute|crafting| CO-OP  |2D|Exploration",
+      "genres": ["Simulation", "RPG"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-828930",
+      "title": "Vigil of Morspire",
+      "developer": "Emberwright Labs",
+      "publisher": "Northwind Publishing",
+      "release_date": "Jul 30, 2022",
+      "price": {
+        "amount_cents": 2314,
+        "currency": "EUR"
+      },
+      "tags": " roguelike  |DECKBUILDING|Card-Game|TURN-BASED|Strategy|Procedural-Generation",
+      "genres": ["Strategy", "RPG"],
+      "platforms": ["windows", "mac", "linux"]
+    },
+    {
+      "store_id": "ST-596630",
+      "title": "Starlit Archive",
+      "developer": "Mordris Softworks",
+      "publisher": "Peregrine Entertainment",
+      "release_date": "2026-06-19",
+      "price": {
+        "amount_cents": 1388,
+        "currency": "EUR"
+      },
+      "tags": "Space;Simulation;sci-fi;Exploration; resource-management  ;3D",
+      "genres": ["Simulation", "Indie"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-1170430",
+      "title": "Neon Caravan",
+      "developer": "Ninth Floor Digital",
+      "publisher": "Northwind Publishing",
+      "release_date": "2018-03-02",
+      "price": {
+        "amount_cents": 1199,
+        "currency": "USD"
+      },
+      "tags": "SOULS-LIKE|difficult|RPG| 3d  | base-building  ",
+      "genres": ["Action", "RPG"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-649170",
+      "title": "Kiln of Nystead",
+      "developer": "Stormsong Works",
+      "publisher": "Stormsong Works",
+      "release_date": "2021-01-18",
+      "price": {
+        "amount_cents": 462,
+        "currency": "EUR"
+      },
+      "tags": " visual-novel  | story-rich  | singleplayer  |2d|MYSTERY",
+      "genres": ["Adventure", "Casual", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2940130",
+      "title": "Outpost of Brireach",
+      "developer": "Blue Heron Softworks",
+      "publisher": "Blue Heron Softworks",
+      "release_date": "Mar 25, 2023",
+      "price": {
+        "amount_cents": 2199,
+        "currency": "USD"
+      },
+      "tags": " rpg   ;  OPEN-WORLD   ;  fantasy  ",
+      "genres": ["RPG"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1305760",
+      "title": "Signal of Kesstead",
+      "developer": "Iron Teapot Labs",
+      "publisher": "Kettlebell Digital",
+      "release_date": "29.05.2018",
+      "price": {
+        "amount_cents": 1299,
+        "currency": "USD"
+      },
+      "tags": " Survival  , crafting, Sci-Fi, early-access, first-person",
+      "genres": ["Adventure", "Indie", "Early Access"],
+      "platforms": ["windows", "mac", "linux"]
+    },
+    {
+      "store_id": "ST-2096890",
+      "title": "Canopy of Galfell",
+      "developer": "Sparkwright Digital",
+      "publisher": "Hexfield Publishing",
+      "release_date": "2016-03-30",
+      "price": {
+        "amount_cents": 1499,
+        "currency": "USD"
+      },
+      "tags": "survival| CRAFTING  |OPEN-WORLD|Base-Building",
+      "genres": ["Adventure", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-357490",
+      "title": "Dustbreak",
+      "developer": "Saltkeep Games",
+      "publisher": "Northwind Publishing",
+      "release_date": "2010-10-18",
+      "price": {
+        "amount_cents": 999,
+        "currency": "USD"
+      },
+      "tags": " roguelike   ; deckbuilding ; card-game ; turn-based ;  2d   ;  physics  ",
+      "genres": ["Strategy", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1455360",
+      "title": "Copper Parade",
+      "developer": "Hidden Path Collective",
+      "publisher": "Hidden Path Collective",
+      "release_date": "2021-08-16",
+      "price": {
+        "amount_cents": 2499,
+        "currency": "USD"
+      },
+      "tags": "RTS;strategy;BASE-BUILDING;multiplayer",
+      "genres": ["Strategy"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-2037200",
+      "title": "The Neon Beacon",
+      "developer": "Bonesong Digital",
+      "publisher": "Granite Peak Games",
+      "release_date": "2022-03-14",
+      "price": {
+        "amount_cents": 925,
+        "currency": "EUR"
+      },
+      "tags": "PUZZLE;platformer; physics  ; 2d  ",
+      "genres": ["Puzzle", "Adventure", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1152730",
+      "title": "Shattered Comet",
+      "developer": "Silver Gull Collective",
+      "publisher": "Arclight Media",
+      "release_date": "Mar 26, 2023",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "survival|Crafting|OPEN-WORLD|Base-Building| early-access  | co-op  ",
+      "genres": ["Adventure", "Indie", "Early Access"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1805840",
+      "title": "The Crimson Comet",
+      "developer": "Sparkline Works",
+      "publisher": "Northwind Publishing",
+      "release_date": "03.09.2025",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "Roguelike, deckbuilding,  card-game  , turn-based, hand-drawn,  PROCEDURAL-GENERATION  ",
+      "genres": ["Strategy", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1735660",
+      "title": "Copper Harbor",
+      "developer": "Tin Lantern Works",
+      "publisher": "Tin Lantern Works",
+      "release_date": "Feb 19, 2024",
+      "price": {
+        "amount_cents": 237900,
+        "currency": "RUB"
+      },
+      "tags": "rts,strategy, Multiplayer  ,3D,resource-management",
+      "genres": ["Strategy"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-2875140",
+      "title": "Copper Signal",
+      "developer": "Morcross Collective",
+      "publisher": "Morcross Collective",
+      "release_date": "2022-06-09",
+      "price": {
+        "amount_cents": 2999,
+        "currency": "USD"
+      },
+      "tags": "stealth ;  First-Person   ; atmospheric ;  story-rich   ; procedural-generation",
+      "genres": ["Action", "Adventure"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-664610",
+      "title": "Patchwork Tides",
+      "developer": "Saltspire Collective",
+      "publisher": "Saltspire Collective",
+      "release_date": "2022-09-29",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "roguelite,  PROCEDURAL-GENERATION  , Hack-And-Slash, Pixel-Graphics, bullet-hell",
+      "genres": ["Action", "Indie"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-2057040",
+      "title": "Brambleforge",
+      "developer": "Dustdrift Team",
+      "publisher": "Ironvale Publishing",
+      "release_date": "Jul 14, 2023",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "metroidvania|PLATFORMER|exploration|2d|Hand-Drawn| Pixel-Graphics  ",
+      "genres": ["Action", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-214700",
+      "title": "Parade of Eldwick",
+      "developer": "Mossrunner Studio",
+      "publisher": "Saffron Sky",
+      "release_date": "2019-02-16",
+      "price": {
+        "amount_cents": 199,
+        "currency": "USD"
+      },
+      "tags": "MINIMALIST,relaxing,singleplayer,cute",
+      "genres": ["Puzzle", "Casual", "Indie"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-2890250",
+      "title": "Sunken Hearth",
+      "developer": "Paper Tiger Bay Digital",
+      "publisher": "Northwind Publishing",
+      "release_date": "2021-12-10",
+      "price": {
+        "amount_cents": 99,
+        "currency": "USD"
+      },
+      "tags": " SURVIVAL  ;crafting; open-world  ; Base-Building  ;first-person",
+      "genres": ["Adventure", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-2907460",
+      "title": "Ledger of Thalcross",
+      "developer": "Brass Fox Team",
+      "publisher": "Brass Fox Team",
+      "release_date": "Dec 23, 2015",
+      "price": {
+        "amount_cents": 142900,
+        "currency": "RUB"
+      },
+      "tags": " survival   ;  CRAFTING   ;  OPEN-WORLD   ; base-building",
+      "genres": ["Adventure"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-2598280",
+      "title": "Tiny Foundry",
+      "developer": "Dustheart Entertainment",
+      "publisher": "Stellar Kite",
+      "release_date": "08.01.2017",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "roguelite,Procedural-Generation, Hack-And-Slash  , permadeath  ,co-op",
+      "genres": ["Action"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1615460",
+      "title": "Labyrinth of Sorcross",
+      "developer": "Copper Hare Labs",
+      "publisher": "Lantern Row",
+      "release_date": "2025-12-10",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "FPS,ONLINE-PVP,first-person, multiplayer  ",
+      "genres": ["Action", "Massively Multiplayer", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-583070",
+      "title": "Wandering Sundial",
+      "developer": "Fern & Flint Softworks",
+      "publisher": "Fern & Flint Softworks",
+      "release_date": "2024-10-31",
+      "price": {
+        "amount_cents": 0,
+        "currency": "USD"
+      },
+      "tags": "Puzzle,minimalist,RELAXING,Cute, ATMOSPHERIC  ,free-to-play",
+      "genres": ["Puzzle", "Casual", "Free to Play"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1376110",
+      "title": "The Copper Ledger",
+      "developer": "Tideborn Interactive",
+      "publisher": "Tideborn Interactive",
+      "release_date": "Oct 3, 2023",
+      "price": {
+        "amount_cents": 1851,
+        "currency": "EUR"
+      },
+      "tags": "strategy,Turn-Based,Space,SINGLEPLAYER, fantasy  ,SCI-FI",
+      "genres": ["Strategy"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2466280",
+      "title": "Hidden Circuit",
+      "developer": "Lunstead Studio",
+      "publisher": "Lunstead Studio",
+      "release_date": "2021-10-27",
+      "price": {
+        "amount_cents": 499,
+        "currency": "USD"
+      },
+      "tags": "Story-Rich|choices-matter|hand-drawn|singleplayer|2D|SCI-FI|Fantasy|mystery",
+      "genres": ["Adventure", "Casual", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1853140",
+      "title": "Bonesong 3",
+      "developer": "Brass Fox Labs",
+      "publisher": "Brass Fox Labs",
+      "release_date": "Feb 9, 2025",
+      "price": {
+        "amount_cents": 699,
+        "currency": "USD"
+      },
+      "tags": "HORROR ;  Atmospheric   ; first-person ;  mystery   ; puzzle ; difficult",
+      "genres": ["Action", "Adventure", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2648990",
+      "title": "Brass Colony",
+      "developer": "Wendeep Collective",
+      "publisher": "Wendeep Collective",
+      "release_date": "2024-06-10",
+      "price": {
+        "amount_cents": 462,
+        "currency": "EUR"
+      },
+      "tags": "PUZZLE ;  relaxing   ; singleplayer ; atmospheric ; PHYSICS ; 2D ; DIFFICULT ; LOCAL-MULTIPLAYER",
+      "genres": ["Puzzle", "Casual", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2150970",
+      "title": "The Endless Thicket",
+      "developer": "Saltborn Digital",
+      "publisher": "Harbor Light Games",
+      "release_date": "2026-04-22",
+      "price": {
+        "amount_cents": 1299,
+        "currency": "USD"
+      },
+      "tags": "co-op ;  local-multiplayer   ; online-pvp ; PUZZLE ; cute ;  3D   ;  Multiplayer  ",
+      "genres": ["Casual", "Indie", "Puzzle"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2978360",
+      "title": "The Glass Pilgrim",
+      "developer": "Tidewright Softworks",
+      "publisher": "Willowbrook Digital",
+      "release_date": "2025-06-12",
+      "price": {
+        "amount_cents": 1499,
+        "currency": "USD"
+      },
+      "tags": " difficult  ; Rpg  ;3d;medieval; FANTASY  ; choices-matter  ",
+      "genres": ["Action", "RPG"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-2568670",
+      "title": "Silent Hearth",
+      "developer": "Lumensong Collective",
+      "publisher": "Lumensong Collective",
+      "release_date": "2021-06-09",
+      "price": {
+        "amount_cents": 199,
+        "currency": "USD"
+      },
+      "tags": "roguelike;deckbuilding; Card-Game  ; turn-based  ;fantasy;procedural-generation",
+      "genres": ["Strategy"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-2221970",
+      "title": "Wandering Spire",
+      "developer": "Rusty Compass Softworks",
+      "publisher": "Northwind Publishing",
+      "release_date": "09.07.2024",
+      "price": {
+        "amount_cents": 1199,
+        "currency": "USD"
+      },
+      "tags": " SOULS-LIKE  , difficult, rpg, 3D, Exploration,  co-op  ",
+      "genres": ["Action", "RPG"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1485890",
+      "title": "Restless Relay",
+      "developer": "Ashwick Team",
+      "publisher": "Kettlebell Digital",
+      "release_date": "2013-11-07",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": " roguelite  , hack-and-slash,  permadeath  , 3D, procedural-generation",
+      "genres": ["Action", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-2412080",
+      "title": "The Distant Colony",
+      "developer": "Cinderspire Interactive",
+      "publisher": "Moonrise Publishing",
+      "release_date": "2024-10-31",
+      "price": {
+        "amount_cents": 0,
+        "currency": "USD"
+      },
+      "tags": "fps ; Multiplayer ; Online-Pvp ; first-person ; CO-OP ; 3d ; sci-fi ; Difficult",
+      "genres": ["Action", "Indie", "Free to Play"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1845780",
+      "title": "Skyline",
+      "developer": "Ninth Floor Labs",
+      "publisher": "Ninth Floor Labs",
+      "release_date": "Nov 28, 2015",
+      "price": {
+        "amount_cents": 999,
+        "currency": "USD"
+      },
+      "tags": "FARMING; RELAXING  ;crafting; story-rich  ;fantasy; 2D  ; Medieval  ",
+      "genres": ["Simulation", "Casual", "Indie", "RPG"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-2579350",
+      "title": "Kesdeep: Frozen Relay",
+      "developer": "Fern & Flint Softworks",
+      "publisher": "Fern & Flint Softworks",
+      "release_date": "Jan 21, 2010",
+      "price": {
+        "amount_cents": 3599,
+        "currency": "USD"
+      },
+      "tags": "RPG|OPEN-WORLD|STORY-RICH|3D",
+      "genres": ["RPG", "Adventure"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-234160",
+      "title": "The Little Furnace",
+      "developer": "Ashwick Team",
+      "publisher": "Ashwick Team",
+      "release_date": "2019-05-25",
+      "price": {
+        "amount_cents": 499,
+        "currency": "USD"
+      },
+      "tags": "City-Builder,RESOURCE-MANAGEMENT,SIMULATION, SANDBOX  ",
+      "genres": ["Simulation", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1763040",
+      "title": "Woven Bastion",
+      "developer": "Ashfell Games",
+      "publisher": "Ashfell Games",
+      "release_date": "2025-11-17",
+      "price": {
+        "amount_cents": 699,
+        "currency": "USD"
+      },
+      "tags": "roguelite| Procedural-Generation  |permadeath| pixel-graphics  ",
+      "genres": ["Action", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-433700",
+      "title": "The Distant Beacon",
+      "developer": "Emberbreak Digital",
+      "publisher": "Emberbreak Digital",
+      "release_date": "2026-09-30",
+      "price": {
+        "amount_cents": 1099,
+        "currency": "USD"
+      },
+      "tags": " turn-based  |RPG| strategy  | Medieval  | permadeath  |difficult| FIGHTING  ",
+      "genres": ["Strategy", "RPG", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-440070",
+      "title": "Mossdrift II",
+      "developer": "Rustwalker Studio",
+      "publisher": "Arclight Media",
+      "release_date": "Nov 11, 2024",
+      "price": {
+        "amount_cents": 2599,
+        "currency": "USD"
+      },
+      "tags": "Space ; simulation ; SCI-FI ; exploration ; Open-World ;  EARLY-ACCESS  ",
+      "genres": ["Simulation", "Adventure", "Indie", "Early Access"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1893790",
+      "title": "The Lunar Zenith",
+      "developer": "Static Lamb Softworks",
+      "publisher": "Static Lamb Softworks",
+      "release_date": "Oct 16, 2019",
+      "price": {
+        "amount_cents": 999,
+        "currency": "USD"
+      },
+      "tags": "idle;resource-management;MINIMALIST;singleplayer; 2D  ;FANTASY;stealth",
+      "genres": ["Casual", "Simulation", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2766180",
+      "title": "Foundry of Cairspire",
+      "developer": "Torvale Team",
+      "publisher": "Torvale Team",
+      "release_date": "2019-03-24",
+      "price": {
+        "amount_cents": 599,
+        "currency": "USD"
+      },
+      "tags": "rpg|Open-World|story-rich| fantasy  |ATMOSPHERIC|MEDIEVAL| crafting  |Singleplayer",
+      "genres": ["RPG", "Adventure", "Action"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2884490",
+      "title": "Archive of Wenspire",
+      "developer": "Dustsong Digital",
+      "publisher": "Dustsong Digital",
+      "release_date": "2015-08-04",
+      "price": {
+        "amount_cents": 699,
+        "currency": "USD"
+      },
+      "tags": "horror,atmospheric,First-Person",
+      "genres": ["Action", "Adventure", "Indie"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-2515060",
+      "title": "Thornlight",
+      "developer": "Dustforge Labs",
+      "publisher": "Willowbrook Digital",
+      "release_date": "2023-09-18",
+      "price": {
+        "amount_cents": 925,
+        "currency": "EUR"
+      },
+      "tags": " city-builder   ; management ; resource-management ; simulation",
+      "genres": ["Simulation", "Strategy", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2000890",
+      "title": "Tidal Reliquary",
+      "developer": "Thornkeep Entertainment",
+      "publisher": "Thornkeep Entertainment",
+      "release_date": "19.03.2018",
+      "price": {
+        "amount_cents": 142900,
+        "currency": "RUB"
+      },
+      "tags": " ROGUELITE  ; procedural-generation  ;HACK-AND-SLASH;permadeath",
+      "genres": ["Action", "Indie"],
+      "platforms": ["windows", "mac", "linux"]
+    },
+    {
+      "store_id": "ST-1881180",
+      "title": "Rift of Cairspire",
+      "developer": "Lost Sock Softworks",
+      "publisher": "Harbor Light Games",
+      "release_date": "2021-04-06",
+      "price": {
+        "amount_cents": 1299,
+        "currency": "USD"
+      },
+      "tags": "management,Resource-Management,simulation, strategy  ,relaxing,Sandbox, fantasy  ,SURVIVAL",
+      "genres": ["Simulation", "Strategy", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1721980",
+      "title": "Stormkeep",
+      "developer": "Boneheart Games",
+      "publisher": "Boneheart Games",
+      "release_date": "2018-11-14",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "COLONY-SIM;base-building;resource-management;Singleplayer;space; early-access  ;2D; SCI-FI  ",
+      "genres": ["Simulation", "Indie", "Early Access"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1180700",
+      "title": "Nyvane: Wild Grove ™",
+      "developer": "Bright Pebble Interactive",
+      "publisher": "Bright Pebble Interactive",
+      "release_date": "20.05.2010",
+      "price": {
+        "amount_cents": 199,
+        "currency": "USD"
+      },
+      "tags": " visual-novel   ; STORY-RICH ;  choices-matter   ; fantasy ; sci-fi ; 2D ;  CUTE  ",
+      "genres": ["Adventure", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1762680",
+      "title": "Crimson Marrow",
+      "developer": "Saltspire Collective",
+      "publisher": "Saltspire Collective",
+      "release_date": "Sep 5, 2022",
+      "price": {
+        "amount_cents": 1499,
+        "currency": "USD"
+      },
+      "tags": "automation|BASE-BUILDING|Resource-Management|CRAFTING|sci-fi|Co-Op|Procedural-Generation",
+      "genres": ["Simulation", "Strategy", "Indie"],
+      "platforms": ["windows", "mac", "linux"]
+    },
+    {
+      "store_id": "ST-797600",
+      "title": "The Rusted Parade",
+      "developer": "Mossbreak Digital",
+      "publisher": "Mossbreak Digital",
+      "release_date": "2013-06-13",
+      "price": {
+        "amount_cents": 499,
+        "currency": "USD"
+      },
+      "tags": "SOULS-LIKE|difficult|3d|exploration|Atmospheric|Open-World| story-rich  ",
+      "genres": ["Action", "RPG"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-2861140",
+      "title": "Rustcraft",
+      "developer": "Lunmoor Digital",
+      "publisher": "Foxglove Publishing",
+      "release_date": "2025-06-17",
+      "price": {
+        "amount_cents": 999,
+        "currency": "USD"
+      },
+      "tags": "survival ; crafting ;  OPEN-WORLD   ;  Base-Building   ; EXPLORATION ; Procedural-Generation ; First-Person ; Co-Op",
+      "genres": ["Adventure", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1525940",
+      "title": "Sormere: Woven Canopy",
+      "developer": "Paper Moth Softworks",
+      "publisher": "Arclight Media",
+      "release_date": "Nov 11, 2022",
+      "price": {
+        "amount_cents": 462,
+        "currency": "EUR"
+      },
+      "tags": "RHYTHM, difficult  ,anime,Singleplayer",
+      "genres": ["Casual", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-256290",
+      "title": "Clockcraft",
+      "developer": "Nyvane Games",
+      "publisher": "Foxglove Publishing",
+      "release_date": "2023-07-18",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "TACTICS, turn-based, STRATEGY, permadeath, roguelite, fantasy, Procedural-Generation",
+      "genres": ["Strategy", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-2235860",
+      "title": "Scarlet Outpost",
+      "developer": "Shadebound Labs",
+      "publisher": "Shadebound Labs",
+      "release_date": "2025-06-20",
+      "price": {
+        "amount_cents": 499,
+        "currency": "USD"
+      },
+      "tags": "farming;Relaxing;cute;Crafting;Exploration",
+      "genres": ["Simulation", "Casual", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2407790",
+      "title": "Iron Canopy",
+      "developer": "Rhevane Studio",
+      "publisher": "Rhevane Studio",
+      "release_date": "2018-09-15",
+      "price": {
+        "amount_cents": 999,
+        "currency": "USD"
+      },
+      "tags": " Turn-Based  ;rpg; strategy  ; fantasy  ",
+      "genres": ["Strategy", "RPG", "Indie"],
+      "platforms": ["windows", "mac", "linux"]
+    },
+    {
+      "store_id": "ST-489780",
+      "title": "Little Colony",
+      "developer": "Clockheart Labs",
+      "publisher": "Clockheart Labs",
+      "release_date": "19.05.2024",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "Roguelite ;  procedural-generation   ; Hack-And-Slash ; 3d ; ROGUELIKE ;  DIFFICULT   ; singleplayer ; PERMADEATH",
+      "genres": ["Action"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-1507440",
+      "title": "Glimmerbound II",
+      "developer": "Iron Teapot Collective",
+      "publisher": "Saffron Sky",
+      "release_date": "Sep 17, 2011",
+      "price": {
+        "amount_cents": 899,
+        "currency": "USD"
+      },
+      "tags": " crafting  |open-world| base-building  | 3D  ",
+      "genres": ["Adventure", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1669670",
+      "title": "Lumenlight",
+      "developer": "Velvet Crow Interactive",
+      "publisher": "Velvet Crow Interactive",
+      "release_date": "2023-10-21",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "stealth; FIRST-PERSON  ;Atmospheric; cyberpunk  ;sci-fi",
+      "genres": ["Action", "Adventure"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2363020",
+      "title": "Ostdeep: Scarlet Harbor",
+      "developer": "Ninth Floor Team",
+      "publisher": "Ninth Floor Team",
+      "release_date": "Mar 22, 2017",
+      "price": {
+        "amount_cents": 2999,
+        "currency": "USD"
+      },
+      "tags": " platformer  ,  Exploration  , fantasy, pixel-graphics, atmospheric, singleplayer",
+      "genres": ["Action", "Adventure", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1167060",
+      "title": "Pilgrim of Nyholt",
+      "developer": "Odd Mitten Works",
+      "publisher": "Odd Mitten Works",
+      "release_date": "Feb 26, 2016",
+      "price": {
+        "amount_cents": 1851,
+        "currency": "EUR"
+      },
+      "tags": "TACTICS|Turn-Based| Rpg  |strategy",
+      "genres": ["Strategy", "Indie", "RPG"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-553180",
+      "title": "Rusted Spire",
+      "developer": "Fern & Flint Games",
+      "publisher": "Stellar Kite",
+      "release_date": "06.08.2026",
+      "price": {
+        "amount_cents": 1499,
+        "currency": "USD"
+      },
+      "tags": "roguelike|Deckbuilding| TURN-BASED  |2D|roguelite| Procedural-Generation  ",
+      "genres": ["Strategy", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2687080",
+      "title": "Starspire 3",
+      "developer": "Gearward Softworks",
+      "publisher": "Bramble Interactive Publishing",
+      "release_date": "2017-06-17",
+      "price": {
+        "amount_cents": 499,
+        "currency": "USD"
+      },
+      "tags": "co-op ; local-multiplayer ;  multiplayer   ; physics ; cute",
+      "genres": ["Casual", "Action", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1238990",
+      "title": "Amber Thicket",
+      "developer": "Ashfell Games",
+      "publisher": "Ashfell Games",
+      "release_date": "2021-02-05",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "survival, open-world  ,BASE-BUILDING, 3D  ",
+      "genres": ["Adventure", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1223340",
+      "title": "Vigil of Caircross",
+      "developer": "Wenmoor Digital",
+      "publisher": "Wenmoor Digital",
+      "release_date": "2019-11-05",
+      "price": {
+        "amount_cents": 1203,
+        "currency": "EUR"
+      },
+      "tags": " tactics  ; TURN-BASED  ; RPG  ; STRATEGY  ;medieval; STORY-RICH  ",
+      "genres": ["Strategy", "RPG", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-2900080",
+      "title": "The Silent Tides",
+      "developer": "Eldwick Interactive",
+      "publisher": "Eldwick Interactive",
+      "release_date": "2019-06-05",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "Souls-Like, difficult,  Rpg  , 3D,  Medieval  , hack-and-slash,  EXPLORATION  ",
+      "genres": ["Action", "RPG"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-1231760",
+      "title": "Shattered Signal",
+      "developer": "Glimmerspire Collective",
+      "publisher": "Glimmerspire Collective",
+      "release_date": "2012-02-15",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": " roguelite  ,procedural-generation,hack-and-slash, PERMADEATH  ,SCI-FI, DIFFICULT  ",
+      "genres": ["Action", "Indie"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-2238590",
+      "title": "Rheholt: Copper Canopy",
+      "developer": "Mossfall Collective",
+      "publisher": "Mossfall Collective",
+      "release_date": "04.08.2014",
+      "price": {
+        "amount_cents": 1999,
+        "currency": "USD"
+      },
+      "tags": "STEALTH,atmospheric, story-rich  ,sci-fi, MYSTERY  ,Choices-Matter, singleplayer  , CYBERPUNK  ",
+      "genres": ["Action"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2164230",
+      "title": "Circuit of Ashholt®",
+      "developer": "Lost Sock Games",
+      "publisher": "Kettlebell Digital",
+      "release_date": "Aug 12, 2015",
+      "price": {
+        "amount_cents": 1851,
+        "currency": "EUR"
+      },
+      "tags": " Rts  ;base-building; Multiplayer  ;online-pvp;Medieval; strategy  ",
+      "genres": ["Strategy"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-2866490",
+      "title": "Cairdeep: Last Atlas",
+      "developer": "Ninth Floor Works",
+      "publisher": "Ninth Floor Works",
+      "release_date": "2023-09-13",
+      "price": {
+        "amount_cents": 199,
+        "currency": "USD"
+      },
+      "tags": " VISUAL-NOVEL  ,Story-Rich,CHOICES-MATTER,ANIME, mystery  ",
+      "genres": ["Adventure", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-462740",
+      "title": "Tidebreak: The Long Night",
+      "developer": "Ninth Floor Works",
+      "publisher": "Ninth Floor Works",
+      "release_date": "27.05.2021",
+      "price": {
+        "amount_cents": 999,
+        "currency": "USD"
+      },
+      "tags": "Metroidvania;platformer;2d;difficult;SOULS-LIKE;SINGLEPLAYER;Fantasy",
+      "genres": ["Action", "Adventure", "Indie"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-619770",
+      "title": "Rusted Quarry",
+      "developer": "Wobbly Chair Labs",
+      "publisher": "Wobbly Chair Labs",
+      "release_date": "2019-10-29",
+      "price": {
+        "amount_cents": 299,
+        "currency": "USD"
+      },
+      "tags": "ROGUELITE|hack-and-slash|permadeath|3d|procedural-generation",
+      "genres": ["Action", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2108020",
+      "title": "Kesmark: Sunken Drift",
+      "developer": "Torreach Works",
+      "publisher": "Oxbow Interactive",
+      "release_date": "2024-08-23",
+      "price": {
+        "amount_cents": 299,
+        "currency": "USD"
+      },
+      "tags": "visual-novel ;  STORY-RICH   ; MYSTERY",
+      "genres": ["Adventure", "Casual"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-1478630",
+      "title": "Wild Signal",
+      "developer": "Starhold Works",
+      "publisher": "Northwind Publishing",
+      "release_date": "22.06.2022",
+      "price": {
+        "amount_cents": 299,
+        "currency": "USD"
+      },
+      "tags": " metroidvania  |platformer|Exploration| souls-like  | singleplayer  |difficult",
+      "genres": ["Action", "Adventure", "Indie"],
+      "platforms": ["windows", "mac"]
+    },
+    {
+      "store_id": "ST-1785820",
+      "title": "Outpost of Cairwick",
+      "developer": "Lungard Works",
+      "publisher": "Kettlebell Digital",
+      "release_date": "2017-04-17",
+      "price": {
+        "amount_cents": 94900,
+        "currency": "RUB"
+      },
+      "tags": "horror, atmospheric, FIRST-PERSON, mystery",
+      "genres": ["Action", "Adventure", "Indie"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-1569940",
+      "title": "Silent Relay",
+      "developer": "Dustdrift Team",
+      "publisher": "Quasar Bay",
+      "release_date": "2017-01-29",
+      "price": {
+        "amount_cents": 699,
+        "currency": "USD"
+      },
+      "tags": "Fps, multiplayer,  Online-Pvp  ,  first-person  ,  3d  ",
+      "genres": ["Action", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-389850",
+      "title": "Ulmmoor: Woven Vigil",
+      "developer": "Glimmerward Interactive",
+      "publisher": "Glimmerward Interactive",
+      "release_date": "22.08.2024",
+      "price": {
+        "amount_cents": 499,
+        "currency": "USD"
+      },
+      "tags": "co-op;LOCAL-MULTIPLAYER;Multiplayer; RELAXING  ; 3D  ;CUTE;CRAFTING",
+      "genres": ["Casual", "Action"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-1402170",
+      "title": "Haelvale: Rusted Parade",
+      "developer": "Static Lamb Interactive",
+      "publisher": "Static Lamb Interactive",
+      "release_date": "2020-06-27",
+      "price": {
+        "amount_cents": 499,
+        "currency": "USD"
+      },
+      "tags": " roguelite  ;PROCEDURAL-GENERATION;hack-and-slash;PERMADEATH;Sci-Fi;Singleplayer",
+      "genres": ["Action", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-805090",
+      "title": "Wenstead: Silent Embers",
+      "developer": "Cairreach Games",
+      "publisher": "Cairreach Games",
+      "release_date": "09.01.2018",
+      "price": {
+        "amount_cents": 1299,
+        "currency": "USD"
+      },
+      "tags": "rpg ; Strategy ; pixel-graphics ;  2d  ",
+      "genres": ["Strategy", "RPG", "Indie"],
+      "platforms": ["windows", "linux"]
+    },
+    {
+      "store_id": "ST-2996920",
+      "title": "Tiny Atlas",
+      "developer": "Red Kite Digital",
+      "publisher": "Kettlebell Digital",
+      "release_date": "2025-07-02",
+      "price": {
+        "amount_cents": 299,
+        "currency": "USD"
+      },
+      "tags": "Puzzle,MINIMALIST,RELAXING,singleplayer, SCI-FI  ",
+      "genres": ["Puzzle", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2686810",
+      "title": "Clocksong: Origins",
+      "developer": "Ninth Floor Labs",
+      "publisher": "Ninth Floor Labs",
+      "release_date": "Oct 20, 2022",
+      "price": {
+        "amount_cents": 99,
+        "currency": "USD"
+      },
+      "tags": "RHYTHM,difficult, ANIME  , 2d  ,Cute,LOCAL-MULTIPLAYER",
+      "genres": ["Casual", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2139420",
+      "title": "The Cobalt Beacon",
+      "developer": "Sparklight Entertainment",
+      "publisher": "Arclight Media",
+      "release_date": "2016-03-11",
+      "price": {
+        "amount_cents": 142900,
+        "currency": "RUB"
+      },
+      "tags": "survival ; open-world ;  BASE-BUILDING   ;  horror   ; sci-fi ; FIRST-PERSON ; co-op ; Atmospheric",
+      "genres": ["Adventure", "Indie"],
+      "platforms": ["windows"]
+    },
+    {
+      "store_id": "ST-2644740",
+      "title": "Thicket of Sorgard",
+      "developer": "Dustward Labs",
+      "publisher": "Dustward Labs",
+      "release_date": "2024-05-13",
+      "price": {
+        "amount_cents": 0,
+        "currency": "USD"
+      },
+      "tags": " rpg  | OPEN-WORLD  |STORY-RICH| medieval  |singleplayer| Crafting  |free-to-play|early-access",
+      "genres": ["RPG", "Adventure", "Action", "Free to Play", "Early Access"],
+      "platforms": ["windows"]
+    }
+  ]
+}

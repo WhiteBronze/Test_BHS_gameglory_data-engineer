@@ -1,0 +1,4 @@
+# The required part needs only the Python 3.11+ standard library (json, csv, sqlite3).
+# Uncomment what you actually use:
+# pandas>=2.0
+# pytest>=8.0
