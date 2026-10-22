@@ -1,0 +1,9 @@
+*.db
+out.txt
+.venv/
+__pycache__/
+*.pyc
+work.py
+run_questions.py
+.idea/
+starter/python
